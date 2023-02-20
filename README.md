@@ -72,3 +72,9 @@ Hi everyone, my name is Tran Anh Tuat. I come from Vietnam. I graduated from Uni
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
 <img align="left" alt="Putty" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
 <img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /><br />
+
+<br/>
+
+### Others
+
+<img title="Temi Robo" align="left" alt="Temi Robo" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220040155-de098efa-a4c3-42d3-ae99-724e09360704.png" /><br />
