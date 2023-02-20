@@ -2,7 +2,9 @@
 
 **`Fullstack Developer / Content Creator`**
 
-Hi everyone, my name is Tran Anh Tuat. I come from Vietnam. I graduated from University of Information Technology - Vietnam National University, Ho Chi Minh City. Currently I am a fullstack developer in Japan, and also a content creator for my youtube channel [Tuat Tran Anh](https://www.youtube.com/c/tuattrananh?sub_confirmation=1)
+Hi everyone, I'm Tuat. I'm from Vietnam. I graduated University of Information Technology - Vietnam National University, Ho Chi Minh City.
+Now I'm living in Japan and work as a fullstack software engineer.
+I'm also a content creator with a Youtube channel with over 17.000 followers [Tuat Tran Anh](https://www.youtube.com/c/tuattrananh?sub_confirmation=1)
 
   <p align="left">
       <!--<a href="https://www.youtube.com/c/tuattrananh?sub_confirmation=1">
